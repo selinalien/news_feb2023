@@ -1,4 +1,4 @@
-# news_feb2023
+# Newspaper clipping in Februrary 2023
 中時 聯合 中時 剪報
 
 ## 2023-02-16三大報新聞
@@ -7,10 +7,10 @@
 - [聯合 石崇良：健保部分負擔擬分兩階段 第一階段4月上路（頭版）](https://udn.com/news/story/7266/6974215)
 - [中時 咖哩粉有致癌物 消基會籲增進口香辛料檢驗](https://www.chinatimes.com/newspapers/20230216000431-260106?chdtv)
 
-## 補充食藥 防疫 新聞
+### 補充食藥 防疫 新聞
 
 - 自由 Ａ9生活新聞 <br>
-[蔬果農藥超標不合格率9.8％ˉ賣場超市都上榜]https://news.ltn.com.tw/news/life/paper/1567327
+[蔬果農藥超標不合格率9.8％ˉ賣場超市都上榜](https://news.ltn.com.tw/news/life/paper/1567327)
 （＊仙菓牌印度咖哩粉）
 
 - 自由 Ａ9生活新聞 <br>
@@ -22,5 +22,5 @@
 - 聯合 A6生活文教<br>
 [解缺藥潮 指示用藥將訂地板價](https://udn.com/news/story/7266/6974098)
 
--中時 Ａ9 桃竹苗新聞<br>
+- 中時 Ａ9 桃竹苗新聞<br>
 [竹縣中醫大引進AI內視鏡 癌症診斷好幫手](https://www.chinatimes.com/newspapers/20230216000493-260107?chdtv)
