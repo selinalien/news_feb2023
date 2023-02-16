@@ -31,5 +31,5 @@
 * 但是這個銷路在一般百貨、生鮮超商 的銷路很有限，多半都是在網購，文章有提到，加強邊境管理。<br>
 ![image](https://user-images.githubusercontent.com/51051867/219234297-04e396a5-31d4-4187-b645-87518cf5db8a.png)
 - 健保部分負擔新制<br>
-* 內有強調電子支付<br>
+*內有強調電子支付<br>
 ![image](https://user-images.githubusercontent.com/51051867/219234838-834c6e27-dd1a-42e0-8dc0-2f99165fe689.png)
