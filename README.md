@@ -1,5 +1,5 @@
 # Newspaper clipping in Februrary 2023
-中時 聯合 中時 剪報
+中時 聯合 自由 剪報
 ## 2023-02-17 各報重點新聞一覽
 自由時報 生活 A8<br>
 [健保部分負擔新制 分2階段上路／藥品、急診調整 最快4月實施](https://news.ltn.com.tw/news/life/paper/1567439)
