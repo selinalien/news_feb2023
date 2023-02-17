@@ -11,31 +11,24 @@
 補充食藥 防疫 新聞<br>
 <br>
 自由時報 生活 A8<br>
-<br>
 - [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
 - [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
 - [助產業發展 政院通過再生醫療雙法草案] (https://news.ltn.com.tw/news/life/paper/1567442)
 - [確診者隔離5天 最快3月取消](https://news.ltn.com.tw/news/life/paper/1567444)
 
 中時 全台要聞 A8
-北北桃、嘉義縣市 中高齡打疫苗有禮
-https://www.chinatimes.com/newspapers/20230217000459-260107
+- [北北桃、嘉義縣市 中高齡打疫苗有禮](https://www.chinatimes.com/newspapers/20230217000459-260107)
 
 聯合 A6 話題
-認證課程突改制 6千長照人員氣炸
-https://udn.com/news/story/7266/6976550
-
-健保部分負擔新制 估影響800萬人
-https://udn.com/news/story/7266/6976548
+- [認證課程突改制 6千長照人員氣炸](https://udn.com/news/story/7266/6976550)
+- [健保部分負擔新制 估影響800萬人](https://udn.com/news/story/7266/6976548)
 
 **有專版一張 少子化的議題**
 
 聯合 A1 頭版
-
 - [撒幣催生難／六都5年花120億 新生兒數卻「少了一個鄉鎮人口」](https://udn.com/news/story/7314/6974512)
 
 聯合 A5 話題
-
 - [助妳好孕！盤點全台10大熱搜「生殖中心」想當媽必收藏](https://udn.com/news/story/7266/6975748)
 - [撒幣催生難／性別刻板印象讓年輕人不敢生 解決少子化先推廣未婚同居生子](https://udn.com/news/story/6656/6975786)
 - [地方救生機…育兒支援多 台東新生兒增加](https://sdgs.udn.com/sdgs/story/123391/6976537?_gl=1*cwnj2i*_ga*MTk4OTY1MDAwNS4xNjc2NTkzMTUz*_ga_7THXRBK2CK*MTY3NjU5MzE1Mi4xLjEuMTY3NjU5NDk0NS4yLjAuMA..)
