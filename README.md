@@ -1,30 +1,21 @@
 # Newspaper clipping in Februrary 2023
 中時 聯合 中時 剪報
 ## 2023-02-17 各報重點新聞一覽
-自由時報 生活 A8
-健保部分負擔新制 分2階段上路／藥品、急診調整 最快4月實施
-https://news.ltn.com.tw/news/life/paper/1567439
-
-聯合報
-確診0+N免隔離 最快3月上路
-https://udn.com/news/story/120940/6976544?from=udn_ch2cate6638sub120940_pulldownmenu_v2
+自由時報 生活 A8<br>
+[健保部分負擔新制 分2階段上路／藥品、急診調整 最快4月實施](https://news.ltn.com.tw/news/life/paper/1567439)
+<br>
+聯合報<br>
+[確診0+N免隔離 最快3月上路](https://udn.com/news/story/120940/6976544?from=udn_ch2cate6638sub120940_pulldownmenu_v2)
 
 
-補充食藥 防疫 新聞
-
-自由時報 生活 A8
-
-檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據
-https://news.ltn.com.tw/news/life/paper/1567441
-
-可治呼吸道疾病／抗生素用量翻倍 食藥署急協調
-https://news.ltn.com.tw/news/life/paper/1567440
-
-助產業發展 政院通過再生醫療雙法草案
-https://news.ltn.com.tw/news/life/paper/1567442
-
-確診者隔離5天 最快3月取消
-https://news.ltn.com.tw/news/life/paper/1567444
+補充食藥 防疫 新聞<br>
+<br>
+自由時報 生活 A8<br>
+<br>
+- [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
+- [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
+- [助產業發展 政院通過再生醫療雙法草案] (https://news.ltn.com.tw/news/life/paper/1567442)
+- [確診者隔離5天 最快3月取消](https://news.ltn.com.tw/news/life/paper/1567444)
 
 中時 全台要聞 A8
 北北桃、嘉義縣市 中高齡打疫苗有禮
@@ -40,19 +31,15 @@ https://udn.com/news/story/7266/6976548
 **有專版一張 少子化的議題**
 
 聯合 A1 頭版
-撒幣催生難／六都5年花120億 新生兒數卻「少了一個鄉鎮人口」
-https://udn.com/news/story/7314/6974512
+
+- [撒幣催生難／六都5年花120億 新生兒數卻「少了一個鄉鎮人口」](https://udn.com/news/story/7314/6974512)
 
 聯合 A5 話題
-**有專版一張 少子化的議題**
 
-助妳好孕！盤點全台10大熱搜「生殖中心」想當媽必收藏
-https://udn.com/news/story/7266/6975748
-
+- [助妳好孕！盤點全台10大熱搜「生殖中心」想當媽必收藏](https://udn.com/news/story/7266/6975748)
 - [撒幣催生難／性別刻板印象讓年輕人不敢生 解決少子化先推廣未婚同居生子](https://udn.com/news/story/6656/6975786)
 - [地方救生機…育兒支援多 台東新生兒增加](https://sdgs.udn.com/sdgs/story/123391/6976537?_gl=1*cwnj2i*_ga*MTk4OTY1MDAwNS4xNjc2NTkzMTUz*_ga_7THXRBK2CK*MTY3NjU5MzE1Mi4xLjEuMTY3NjU5NDk0NS4yLjAuMA..)
 - [企業幫顧娃…讓員工敢生 104自設托兒所](https://sdgs.udn.com/sdgs/story/123391/6976539?_gl=1*1bdost2*_ga*MTk4OTY1MDAwNS4xNjc2NTkzMTUz*_ga_7THXRBK2CK*MTY3NjU5MzE1Mi4xLjEuMTY3NjU5NDk3MS40Ni4wLjA.)
-
 - [專家：補助凍卵 不如逆轉晚婚](https://sdgs.udn.com/sdgs/story/123391/6976542?_gl=1*1eyh82d*_ga*MTk4OTY1MDAwNS4xNjc2NTkzMTUz*_ga_7THXRBK2CK*MTY3NjU5MzE1Mi4xLjEuMTY3NjU5NTAxOC42MC4wLjA.)
 
 
