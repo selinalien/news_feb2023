@@ -13,6 +13,7 @@ https://udn.com/news/story/120940/6976544?from=udn_ch2cate6638sub120940_pulldown
 補充食藥 防疫 新聞
 
 自由時報 生活 A8
+
 檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據
 https://news.ltn.com.tw/news/life/paper/1567441
 
@@ -24,6 +25,23 @@ https://news.ltn.com.tw/news/life/paper/1567442
 
 確診者隔離5天 最快3月取消
 https://news.ltn.com.tw/news/life/paper/1567444
+
+中時 全台要聞 A8
+北北桃、嘉義縣市 中高齡打疫苗有禮
+https://www.chinatimes.com/newspapers/20230217000459-260107
+
+聯合 A1 頭版
+撒幣催生難／六都5年花120億 新生兒數卻「少了一個鄉鎮人口」
+https://udn.com/news/story/7314/6974512
+
+聯合 A5 話題
+助妳好孕！盤點全台10大熱搜「生殖中心」想當媽必收藏
+https://udn.com/news/story/7266/6975748
+
+撒幣催生難／性別刻板印象讓年輕人不敢生 解決少子化先推廣未婚同居生子
+https://udn.com/news/story/6656/6975786
+
+
 
 
 ## 2023-02-16三大報新聞
