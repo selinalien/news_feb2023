@@ -15,10 +15,10 @@
 - [助產業發展 政院通過再生醫療雙法草案](https://news.ltn.com.tw/news/life/paper/1567442)
 - [確診者隔離5天 最快3月取消](https://news.ltn.com.tw/news/life/paper/1567444)
 
-中時 全台要聞 A8
+**中時 全台要聞 A8
 - [北北桃、嘉義縣市 中高齡打疫苗有禮](https://www.chinatimes.com/newspapers/20230217000459-260107)
 
-聯合 A6 話題
+**聯合 A6 話題**
 - [認證課程突改制 6千長照人員氣炸](https://udn.com/news/story/7266/6976550)
 - [健保部分負擔新制 估影響800萬人](https://udn.com/news/story/7266/6976548)
 
