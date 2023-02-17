@@ -10,10 +10,10 @@
 ## 補充食藥 防疫 新聞
 <br>
 自由時報 生活 A8 <br>
-- [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
-- [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
-- [助產業發展 政院通過再生醫療雙法草案](https://news.ltn.com.tw/news/life/paper/1567442)
-- [確診者隔離5天 最快3月取消](https://news.ltn.com.tw/news/life/paper/1567444)
+-  [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
+-  [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
+-  [助產業發展 政院通過再生醫療雙法草案](https://news.ltn.com.tw/news/life/paper/1567442)
+-  [確診者隔離5天 最快3月取消](https://news.ltn.com.tw/news/life/paper/1567444)
 
 中時 全台要聞 A8
 - [北北桃、嘉義縣市 中高齡打疫苗有禮](https://www.chinatimes.com/newspapers/20230217000459-260107)
