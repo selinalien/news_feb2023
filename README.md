@@ -9,7 +9,7 @@
 
 ## 補充食藥 防疫 新聞
 <br>
-自由時報 生活 A8 <br>
+自由時報 生活 A8
 - [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
 - [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
 - [助產業發展 政院通過再生醫療雙法草案](https://news.ltn.com.tw/news/life/paper/1567442)
