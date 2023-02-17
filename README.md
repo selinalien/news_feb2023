@@ -53,7 +53,7 @@
 
 - 自由 Ａ9生活新聞 <br>
 [本土+19505！1個月大男嬰染疫不治／開放港澳自由行 專家：影響有限](https://news.ltn.com.tw/news/life/paper/1567329)
-
+[社群媒體販售電子煙 南投衛生局依藥事法送辦](https://news.ltn.com.tw/news/life/breakingnews/4212759)
 - 自由 Ａ11 新竹苗栗<br>
 [掃除C肝 苗縣4高風險鄉鎮8村里將挨家挨戶揪篩檢](https://health.ltn.com.tw/article/breakingnews/4212006)
 
@@ -62,6 +62,7 @@
 
 - 中時 Ａ9 桃竹苗新聞<br>
 [竹縣中醫大引進AI內視鏡 癌症診斷好幫手](https://www.chinatimes.com/newspapers/20230216000493-260107?chdtv)
+
 
 ### 摘要新聞圖片及解說
 - 仙菓牌印度咖哩粉<br>
