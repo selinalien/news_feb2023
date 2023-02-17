@@ -50,12 +50,12 @@
 **自由 Ａ9生活新聞**<br>
 - [蔬果農藥超標不合格率9.8％ˉ賣場超市都上榜](https://news.ltn.com.tw/news/life/paper/1567327)
 （＊仙菓牌印度咖哩粉）
-<br>- [本土+19505！1個月大男嬰染疫不治／開放港澳自由行 專家：影響有限](https://news.ltn.com.tw/news/life/paper/1567329)<br>
-<br>- [社群媒體販售電子煙 南投衛生局依藥事法送辦](https://news.ltn.com.tw/news/life/breakingnews/4212759)<br>
-<br>**自由 Ａ11 新竹苗栗**
-- [掃除C肝 苗縣4高風險鄉鎮8村里將挨家挨戶揪篩檢](https://health.ltn.com.tw/article/breakingnews/4212006)
+- [本土+19505！1個月大男嬰染疫不治／開放港澳自由行 專家：影響有限](https://news.ltn.com.tw/news/life/paper/1567329)<br>
+- [社群媒體販售電子煙 南投衛生局依藥事法送辦](https://news.ltn.com.tw/news/life/breakingnews/4212759)<br>
+**自由 Ａ11 新竹苗栗**
+- [掃除C肝 苗縣4高風險鄉鎮8村里將挨家挨戶揪篩檢](https://health.ltn.com.tw/article/breakingnews/4212006)<br>
 **聯合 A6生活文教**
-- [解缺藥潮 指示用藥將訂地板價](https://udn.com/news/story/7266/6974098)
+- [解缺藥潮 指示用藥將訂地板價](https://udn.com/news/story/7266/6974098)<br>
 **中時 Ａ9 桃竹苗新聞**
 - [竹縣中醫大引進AI內視鏡 癌症診斷好幫手](https://www.chinatimes.com/newspapers/20230216000493-260107?chdtv)
 
