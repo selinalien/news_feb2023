@@ -30,6 +30,15 @@ https://news.ltn.com.tw/news/life/paper/1567444
 北北桃、嘉義縣市 中高齡打疫苗有禮
 https://www.chinatimes.com/newspapers/20230217000459-260107
 
+聯合 A6 話題
+認證課程突改制 6千長照人員氣炸
+https://udn.com/news/story/7266/6976550
+
+健保部分負擔新制 估影響800萬人
+https://udn.com/news/story/7266/6976548
+
+**有專版一張 少子化的議題**
+
 聯合 A1 頭版
 撒幣催生難／六都5年花120億 新生兒數卻「少了一個鄉鎮人口」
 https://udn.com/news/story/7314/6974512
@@ -52,12 +61,6 @@ https://sdgs.udn.com/sdgs/story/123391/6976539?_gl=1*1bdost2*_ga*MTk4OTY1MDAwNS4
 專家：補助凍卵 不如逆轉晚婚
 https://sdgs.udn.com/sdgs/story/123391/6976542?_gl=1*1eyh82d*_ga*MTk4OTY1MDAwNS4xNjc2NTkzMTUz*_ga_7THXRBK2CK*MTY3NjU5MzE1Mi4xLjEuMTY3NjU5NTAxOC42MC4wLjA.
 
-聯合 A6 話題
-認證課程突改制 6千長照人員氣炸
-https://udn.com/news/story/7266/6976550
-
-健保部分負擔新制 估影響800萬人
-https://udn.com/news/story/7266/6976548
 
 
 ## 2023-02-16三大報新聞
