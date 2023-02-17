@@ -7,8 +7,8 @@
 聯合報<br>
 [確診0+N免隔離 最快3月上路](https://udn.com/news/story/120940/6976544?from=udn_ch2cate6638sub120940_pulldownmenu_v2)
 
-## 補充食藥 防疫 新聞
-<br>
+### 補充食藥 防疫 新聞
+
 自由時報 生活 A8
 - [檢視15國608項產品／研究︰嬰兒配方奶粉益處 多無科學論據](https://news.ltn.com.tw/news/life/paper/1567441)
 - [可治呼吸道疾病／抗生素用量翻倍 食藥署急協調](https://news.ltn.com.tw/news/life/paper/1567440)
