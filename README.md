@@ -26,7 +26,7 @@
 - [羅一鈞：武肺死亡數 下週下降](https://news.ltn.com.tw/news/life/paper/1567778)
 
 **自由 A11 新竹苗栗**
--[湖口仁慈醫院 亞東醫院醫師進駐](https://news.ltn.com.tw/news/life/paper/1567686)
+- [湖口仁慈醫院 亞東醫院醫師進駐](https://news.ltn.com.tw/news/life/paper/1567686)
 
 
 ## 2023-02-17 各報重點新聞一覽
