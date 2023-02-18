@@ -1,5 +1,47 @@
 # Newspaper clipping in Februrary 2023
 中時 聯合 自由 剪報
+## 2023-02-18 各報重點新聞一覽
+中時 綜合 A6<br>
+[口罩產生塑膠微粒會傳病毒？ 專家：無直接證據](https://www.chinatimes.com/newspapers/20230218000344-260106)
+
+聯合 A5 生活<br>
+[薛瑞元：明年健保費率 朝不漲努力](https://udn.com/news/story/7266/6978843)
+
+自由時報 A9 綜合<br>
+[明年健保費 薛瑞元：不會調漲](https://news.ltn.com.tw/news/life/paper/1567777)
+
+### 補充 食藥 防疫 新聞
+
+**中時 桃竹苗 A11**
+- [逐年變好 桃園空品六都第一](https://www.chinatimes.com/newspapers/20230218000407-260107)
+- [社評／智造服務融合 創造新經濟動能](https://www.chinatimes.com/newspapers/20230218000550-260301)
+
+
+聯合 A5 生活
+
+第三波疫情 步入尾聲
+https://udn.com/news/story/120940/6978844
+
+聯合 A7 橘世代
+
+孤老危機─台東篇／「行動醫療車」 一邊候診一邊開心聊天
+https://udn.com/news/story/7266/6978922
+
+
+自由 A9 綜合
+
+羅一鈞：武肺死亡數 下週下降
+https://news.ltn.com.tw/news/life/paper/1567778
+
+自由 A11 新竹苗栗
+
+湖口仁慈醫院 亞東醫院醫師進駐
+https://news.ltn.com.tw/news/life/paper/1567686
+
+
+
+
+
 ## 2023-02-17 各報重點新聞一覽
 自由時報 生活 A8<br>
 [健保部分負擔新制 分2階段上路／藥品、急診調整 最快4月實施](https://news.ltn.com.tw/news/life/paper/1567439)
