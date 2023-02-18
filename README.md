@@ -16,30 +16,17 @@
 - [逐年變好 桃園空品六都第一](https://www.chinatimes.com/newspapers/20230218000407-260107)
 - [社評／智造服務融合 創造新經濟動能](https://www.chinatimes.com/newspapers/20230218000550-260301)
 
+**聯合 A5 生活**
+- [第三波疫情 步入尾聲](https://udn.com/news/story/120940/6978844)
 
-聯合 A5 生活
+**聯合 A7 橘世代**
+- [孤老危機─台東篇／「行動醫療車」 一邊候診一邊開心聊天](https://udn.com/news/story/7266/6978922)
 
-第三波疫情 步入尾聲
-https://udn.com/news/story/120940/6978844
+**自由 A9 綜合**
+- [羅一鈞：武肺死亡數 下週下降](https://news.ltn.com.tw/news/life/paper/1567778)
 
-聯合 A7 橘世代
-
-孤老危機─台東篇／「行動醫療車」 一邊候診一邊開心聊天
-https://udn.com/news/story/7266/6978922
-
-
-自由 A9 綜合
-
-羅一鈞：武肺死亡數 下週下降
-https://news.ltn.com.tw/news/life/paper/1567778
-
-自由 A11 新竹苗栗
-
-湖口仁慈醫院 亞東醫院醫師進駐
-https://news.ltn.com.tw/news/life/paper/1567686
-
-
-
+**自由 A11 新竹苗栗**
+-[湖口仁慈醫院 亞東醫院醫師進駐](https://news.ltn.com.tw/news/life/paper/1567686)
 
 
 ## 2023-02-17 各報重點新聞一覽
