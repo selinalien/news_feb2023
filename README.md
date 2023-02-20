@@ -1,5 +1,83 @@
 # Newspaper clipping in Februrary 2023
 中時 聯合 自由 剪報
+## 2023-02-20 各報重點新聞一覽
+2023-02-20 各報重點新聞一覽
+
+中時 A1 要聞
+今起室內免戴口罩 羅一鈞：不排除疫情反彈
+https://www.chinatimes.com/newspapers/20230220000283-260114
+
+自由 A1 要聞
+門診藥品部分負擔新制 身心障礙、中低收 134萬人不調整
+https://news.ltn.com.tw/news/life/paper/1567984
+
+聯合報 A5 話題
+室內口罩禁令執行812天 今走入歷史
+https://udn.com/news/story/120940/6981947
+
+-----
+2023-02-19
+聯合報
+南台灣降雨量30年最少 啟動抗旱
+https://udn.com/news/story/7266/6980577
+
+明天口罩解封 下一步？ 專家：確診回歸本科治療更重要
+https://udn.com/news/story/120940/6981372
+
+-----
+
+2023-02-20
+補充食藥地方新聞
+1 of 2
+
+聯合報 A5 話題
+食藥口罩醜陋症 下半臉「走鐘」求醫者變多
+https://udn.com/news/story/120940/6981948
+
+聯合報 A5 話題
+未接種長者死亡占比高 詹長權批指揮中心漠視
+https://udn.com/news/story/120940/6981950
+
+聯合報 B2 桃竹苗要聞
+桃園364處兒童遊戲場 42處待改善
+https://udn.com/news/story/7324/6981789
+
+聯合報 B2 桃竹苗要聞
+醫病天地／爬山旅遊 記得備藥防高山症
+(新竹馬偕醫院提供)
+https://udn.com/news/story/7266/6981814
+
+2023-02-20
+補充食藥地方新聞
+2 of 2
+
+自由時報 Ａ2焦點新聞
+
+健保檢驗檢查新制 石崇良：強化資訊管理 抑制浪費
+
+https://news.ltn.com.tw/news/life/paper/1567974
+
+
+自由時報 Ａ2焦點新聞
+新藥納健保 今年推行暫時列冊給付
+
+https://news.ltn.com.tw/news/life/paper/1567975
+
+自由時報 Ａ13 桃竹苗
+桃園2公園沙坑藏尖物 3童遭刺傷
+https://news.ltn.com.tw/news/life/paper/1568062
+
+中時 Ａ9桃竹苗
+桃園特搜航空城救災演練 超逼真
+https://www.chinatimes.com/newspapers/20230220000380-260107
+
+## 2023-02-19 各報重點新聞一覽
+聯合報
+南台灣降雨量30年最少 啟動抗旱
+https://udn.com/news/story/7266/6980577
+
+明天口罩解封 下一步？ 專家：確診回歸本科治療更重要
+https://udn.com/news/story/120940/6981372
 ## 2023-02-18 各報重點新聞一覽
 中時 綜合 A6<br>
 [口罩產生塑膠微粒會傳病毒？ 專家：無直接證據](https://www.chinatimes.com/newspapers/20230218000344-260106)
