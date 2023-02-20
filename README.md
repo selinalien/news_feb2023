@@ -15,26 +15,22 @@
 補充食藥地方新聞
 
 **聯合報 A5 話題**
-[食藥口罩醜陋症 下半臉「走鐘」求醫者變多](https://udn.com/news/story/120940/6981948)
-
-**聯合報 A5 話題**
-[未接種長者死亡占比高 詹長權批指揮中心漠視](https://udn.com/news/story/120940/6981950)
+- [食藥口罩醜陋症 下半臉「走鐘」求醫者變多](https://udn.com/news/story/120940/6981948)
+- [未接種長者死亡占比高 詹長權批指揮中心漠視](https://udn.com/news/story/120940/6981950)
 
 **聯合報 B2 桃竹苗要聞**
-[桃園364處兒童遊戲場 42處待改善](https://udn.com/news/story/7324/6981789)
-
-**聯合報 B2 桃竹苗要聞**
-[醫病天地／爬山旅遊 記得備藥防高山症(新竹馬偕醫院提供)](https://udn.com/news/story/7266/6981814)
+- [桃園364處兒童遊戲場 42處待改善](https://udn.com/news/story/7324/6981789)
+- [醫病天地／爬山旅遊 記得備藥防高山症(新竹馬偕醫院提供)](https://udn.com/news/story/7266/6981814)
 
 **自由時報 Ａ2焦點新聞**
 - [健保檢驗檢查新制 石崇良：強化資訊管理 抑制浪費](https://news.ltn.com.tw/news/life/paper/1567974)
 - [新藥納健保 今年推行暫時列冊給付](https://news.ltn.com.tw/news/life/paper/1567975)
 
 **自由時報 Ａ13 桃竹苗**
--[桃園2公園沙坑藏尖物 3童遭刺傷](https://news.ltn.com.tw/news/life/paper/1568062)
+- [桃園2公園沙坑藏尖物 3童遭刺傷](https://news.ltn.com.tw/news/life/paper/1568062)
 
 **中時 Ａ9桃竹苗**
--[桃園特搜航空城救災演練 超逼真](https://www.chinatimes.com/newspapers/20230220000380-260107)
+- [桃園特搜航空城救災演練 超逼真](https://www.chinatimes.com/newspapers/20230220000380-260107)
 
 ## 2023-02-19 各報重點新聞一覽
 聯合報<br>
