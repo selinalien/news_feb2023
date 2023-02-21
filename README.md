@@ -1,5 +1,38 @@
 # Newspaper clipping in Februrary 2023
 中時 聯合 自由 剪報
+## 2023-02-21 各報重點新聞一覽
+
+自由<br>
+[室內脫罩首日 多數戴牢牢／王必勝：不致造成疫情大流行 預計2、3個月後才會適應](https://news.ltn.com.tw/news/life/paper/1568127)
+
+聯合 A6 生活文教<br>
+[口罩全面解禁 五月有機會](https://udn.com/news/story/120940/6983988)
+
+中時 綜合A6<br>
+[王必勝：3月1日起不發入境免費快篩](https://www.chinatimes.com/newspapers/20230221000370-260106)
+
+### 食藥防疫新聞補充
+
+自由 A7國際新聞
+-[全球極端氣候危險地區 前9名都在中國](https://news.ltn.com.tw/news/world/paper/1568159)
+(台灣5城市上榜：台中、台南、高雄、新北、台北市)
+
+
+自由 A13 新竹苗栗焦點
+- [竹竹苗首例 竹市設校園空品維護區](https://news.ltn.com.tw/news/life/paper/1568290)
+
+中時 綜合A6
+- [專科護理師不分科 衛福部6月重新公告](https://www.chinatimes.com/newspapers/20230221000368-260106?chdtv)
+
+中時 A9桃竹苗新聞
+- [楊文科擬規畫1000公頃產業用地](https://www.chinatimes.com/newspapers/20230221000433-260107)
+- [中醫大新竹附醫達文西手術 為直腸癌患者保肛](https://www.chinatimes.com/newspapers/20230221000442-260107)
+
+### 摘要新聞圖片及解說
+[大眾運輸防疫規定]
+- ![image](https://user-images.githubusercontent.com/51051867/220222198-ece3fbdc-9c75-446d-ad4f-91bef64eb5c3.png)
+
+
 ## 2023-02-20 各報重點新聞一覽
 中時 A1 要聞<br>
 [今起室內免戴口罩 羅一鈞：不排除疫情反彈](https://www.chinatimes.com/newspapers/20230220000283-260114)
