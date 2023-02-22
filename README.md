@@ -1,5 +1,53 @@
 # Newspaper clipping in Februrary 2023
 中時 聯合 自由 剪報
+## 2023-02-22 各報重點新聞一覽
+
+中國時報 A1 要聞
+[在台設籍、人在國外 需續繳健保費](https://www.chinatimes.com/newspapers/20230222000383-260118)
+
+聯合報 A1 頭版
+[健保藥價擬大砍 缺藥危機恐擴散](https://udn.com/news/story/7238/6986623)
+
+自由 A1 焦點
+[武肺疫苗一年打一劑 高風險族群半年一劑](https://news.ltn.com.tw/news/life/paper/1568326)
+
+自由 生活 A10
+[成人免費健檢率27%創新低 北基墊底／40歲以上每3年1次 嘉市、宜蘭、金門利用率超過35%](https://news.ltn.com.tw/news/life/paper/1568336)
+**2021年 前年新竹市列為後5名**
+
+### 食藥防疫新聞補充
+中時 A6 生活
+- [新藥貴森森 健保將推動差額給付](https://www.chinatimes.com/newspapers/20230222000432-260114)
+- [接種常態化 新冠疫苗將1年打1劑](https://www.chinatimes.com/newspapers/20230222000437-260114)
+
+
+兒醫精算 1歲半小小孩得挨20疫苗針
+https://www.chinatimes.com/newspapers/20230222000439-260114
+
+可能失智？在家就能檢測 元智大學研發APP可提早預知
+https://www.chinatimes.com/newspapers/20230222000443-260114
+
+食藥防疫新聞補充
+2of2
+
+自由 A11生活
+
+健保藥預算 今年將砍81.8億
+https://news.ltn.com.tw/news/life/paper/1568448
+
+
+漸凍症藥最快4月納健保 患者首年省近1400萬
+https://news.ltn.com.tw/news/life/paper/1568451
+
+北榮爆防疫醫師無獎金 啟動調查
+https://news.ltn.com.tw/news/life/paper/1568449
+
+聯合 A7 財經
+
+《通信網路》5G遠距診療2.0提升醫療可近性 遠傳助陣
+https://www.chinatimes.com/realtimenews/20230222001080-260410
+
+
 ## 2023-02-21 各報重點新聞一覽
 
 自由<br>
