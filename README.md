@@ -19,34 +19,16 @@
 中時 A6 生活
 - [新藥貴森森 健保將推動差額給付](https://www.chinatimes.com/newspapers/20230222000432-260114)
 - [接種常態化 新冠疫苗將1年打1劑](https://www.chinatimes.com/newspapers/20230222000437-260114)
-
-
-兒醫精算 1歲半小小孩得挨20疫苗針
-https://www.chinatimes.com/newspapers/20230222000439-260114
-
-可能失智？在家就能檢測 元智大學研發APP可提早預知
-https://www.chinatimes.com/newspapers/20230222000443-260114
-
-食藥防疫新聞補充
-2of2
+- [兒醫精算 1歲半小小孩得挨20疫苗針](https://www.chinatimes.com/newspapers/20230222000439-260114)
+- [可能失智？在家就能檢測 元智大學研發APP可提早預知](https://www.chinatimes.com/newspapers/20230222000443-260114)
 
 自由 A11生活
-
-健保藥預算 今年將砍81.8億
-https://news.ltn.com.tw/news/life/paper/1568448
-
-
-漸凍症藥最快4月納健保 患者首年省近1400萬
-https://news.ltn.com.tw/news/life/paper/1568451
-
-北榮爆防疫醫師無獎金 啟動調查
-https://news.ltn.com.tw/news/life/paper/1568449
+- [健保藥預算 今年將砍81.8億](https://news.ltn.com.tw/news/life/paper/1568448)
+- [漸凍症藥最快4月納健保 患者首年省近1400萬](https://news.ltn.com.tw/news/life/paper/1568451)
+- [北榮爆防疫醫師無獎金 啟動調查](https://news.ltn.com.tw/news/life/paper/1568449)
 
 聯合 A7 財經
-
-《通信網路》5G遠距診療2.0提升醫療可近性 遠傳助陣
-https://www.chinatimes.com/realtimenews/20230222001080-260410
-
+- [《通信網路》5G遠距診療2.0提升醫療可近性 遠傳助陣](https://www.chinatimes.com/realtimenews/20230222001080-260410)
 
 ## 2023-02-21 各報重點新聞一覽
 
