@@ -1,6 +1,71 @@
 # Newspaper clipping in Februrary 2023
 2023-02-16~ 2023-02-28<br>
 中時 聯合 自由 剪報
+## 2023-02-23 各報重點新聞一覽
+2023-02-23 各報重點新聞一覽
+
+自由 A9 生活
+停復保違憲 薛瑞元：修法或廢除檢討中
+https://news.ltn.com.tw/news/life/paper/1568524
+
+聯合 A4 要聞
+疫苗案未提糾正 監院砲聲隆隆
+https://udn.com/news/story/6656/6989385
+
+
+食藥防疫新聞補充 
+1of2
+
+自由 A9 生活
+
+預測疫情準確度逾9成 「莊大哥」接任疾管署長
+https://news.ltn.com.tw/news/life/paper/1568522
+
+本土+16145、死亡+64／疫情持續下降 預估下週一跌破萬例
+https://news.ltn.com.tw/news/life/paper/1568523
+
+中時 A4 政治
+王鴻薇轟實習名額不設限 替波波牙醫開後門
+https://www.chinatimes.com/newspapers/20230223000451-260118
+
+中時 A5 綜合
+疫情下周估跌破萬例 莊人祥掌疾管署
+https://www.chinatimes.com/newspapers/20230223000463-260106
+
+中時 A8 全台
+口罩戴緊緊 疫後1到3歲孩童 不肯說話增3成
+https://www.chinatimes.com/newspapers/20230223000484-260114
+
+聯合 A4
+新聞眼／監院查疫苗案「雷大雨小」 遇陳揆就轉彎？
+https://udn.com/news/story/6656/6989389
+
+聯合 台北即時報導
+
+地方首長拚績效 李秉穎：最快下周開始推「每年打一次」
+https://udn.com/news/story/120940/6989596
+
+聯合 A6 生活
+健保藥價調整 88項缺藥不砍價
+https://udn.com/news/story/7266/6989255
+
+聯合 A8 財經要聞
+政經私房話／腸病毒疫苗量產 詹啟賢如釋重擔
+https://udn.com/news/story/7241/6989347
+
+
+個資資安新聞
+
+
+微風遭駭 90萬用戶個資外洩
+https://udn.com/news/story/123309/6989196
+*微風是整個資料庫被人「打包帶走」
+
+個資外洩 立委：罰則太輕 政府無專責單位
+https://udn.com/news/story/123309/6989346
+
+陳揆：個資法 研議提高罰責
+https://udn.com/news/story/123309/6989355
 ## 2023-02-22 各報重點新聞一覽
 
 中國時報 A1 要聞<br>
