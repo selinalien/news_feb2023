@@ -32,7 +32,7 @@
 - [《通信網路》5G遠距診療2.0提升醫療可近性 遠傳助陣](https://www.chinatimes.com/realtimenews/20230222001080-260410)
 
 ### 摘要新聞圖片及解說
-- [2021成人保健預約服務率]<br>
+- 2021成人保健預約服務率<br>
 ![2379264](https://user-images.githubusercontent.com/51051867/220515370-3a576d16-8fd5-4444-8c6e-d96054e90285.png)
 
 
