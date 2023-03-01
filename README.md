@@ -1,6 +1,28 @@
 # Newspaper clipping in Februrary 2023
 2023-02-16~ 2023-02-28<br>
 中時 聯合 自由 剪報
+## 2023-02-24 各報重點新聞一覽
+
+中時 A1 要聞<br>
+[超買莫德納 專家憂1800萬劑恐報銷一半](https://www.chinatimes.com/newspapers/20230224000396-260114)
+
+自由 A10 綜合<br>
+[3月6日起3族群「疫苗＋1」 解封安心](https://news.ltn.com.tw/news/life/paper/1568752)
+
+聯合 A7 話題<br>
+[新冠疫苗常態化 未來固定3月接種](https://udn.com/news/story/120940/6991887)
+
+### 食藥防疫新聞補充 
+
+自由 A10 綜合<br>
+- [本土連續20天下降／社區式照顧機構定期快篩 27日取消](https://news.ltn.com.tw/news/life/paper/1568753)
+
+聯合 B2 桃竹苗要聞<br>
+- [3月開放申請 桃園擴大肺癌篩檢 2.5萬人受惠](https://udn.com/news/story/7266/6991792)
+
+中時 A6 生活<br>
+- [跟進月票熱潮 竹竹苗研議1280方案](https://www.chinatimes.com/newspapers/20230224000413-260118)
+
 ## 2023-02-23 各報重點新聞一覽
 自由 A9 生活<br>
 [停復保違憲 薛瑞元：修法或廢除檢討中](https://news.ltn.com.tw/news/life/paper/1568524)
